@@ -48,6 +48,7 @@
 Skills: `Mobile app development` `clean code` `Leadership` `Communication`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
+<br>
 
 **Full Stack Developer** \
  • In progress \
