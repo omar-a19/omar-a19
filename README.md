@@ -42,7 +42,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFijOLA4BJdm_L4iA7se4XdAiC6rw6vH7Jg&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFijOLA4BJdm_L4iA7se4XdAiC6rw6vH7Jg&s)"/>
+[<img align="left" height="94px" width="94px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFijOLA4BJdm_L4iA7se4XdAiC6rw6vH7Jg&s"/>] ()
 **Computer Science Bachelor** \
 [**College**]([https://www.cic-cairo.edu.eg/](https://www.cic-cairo.edu.eg/))  • 
 Skills: `Mobile app development` `clean code` `Leadership` `Communication`
