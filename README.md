@@ -53,7 +53,7 @@ Skills: `Mobile app development` `clean code` `Leadership` `Communication`
 
 **Full Stack Developer** \
  • In progress \
-Skills: `HTML5` `CSS3`  `Flutter` `Bootstrap` `JavaScript` `Git` `GitHub` `Kotlin` 
+Skills: `HTML5` `CSS3` `Dart`  `Flutter` `Bootstrap` `JavaScript` `Git` `GitHub` `Kotlin` 
 
 <br>
 
